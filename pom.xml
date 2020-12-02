@@ -21,6 +21,7 @@
 		-->
 	</properties>
 	
+	<!-- Just changing one thing! -->
 	<dependencies>
 		<dependency>
 			<groupId>info.cukes</groupId>
