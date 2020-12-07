@@ -1,4 +1,7 @@
-# Multiple features my have the same Given steps before each scenario. To avoid copy/paste, define those steps as feature prerequisite with 'Background'keyword.
+# *** Each non-blank line must start w/ Gherkin keyword
+
+# Multiple features may have the same Given steps before each scenario.
+# To avoid copy/paste, define those steps as feature pre-req w/ 'Background' keyword.
 Feature: search Wikipedia
 
   Background:
